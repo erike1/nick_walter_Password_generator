@@ -1,0 +1,3 @@
+git remote add origin https://github.com/erike1/nick_walter_Password_generator.git
+git branch -M main
+git push -u origin main
